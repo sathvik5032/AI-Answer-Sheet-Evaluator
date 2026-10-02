@@ -1,0 +1,53 @@
+{
+  "student_id": "student_001",
+  "exam_subject": "Computer Fundamentals",
+  "total_expected_marks": 20,
+  "answers": [
+    {
+      "question_id": "Q1",
+      "source_pages": [
+        "page1.jpg"
+      ],
+      "expected_marks": 5,
+      "evaluation_case": "clearly_correct",
+      "reason": "The answer correctly explains a computer as an electronic device that accepts input, processes data, produces output, and gives a valid example."
+    },
+    {
+      "question_id": "Q2",
+      "source_pages": [
+        "page1.jpg"
+      ],
+      "expected_marks": 5,
+      "evaluation_case": "correct_different_wording",
+      "reason": "The answer expresses the same meaning as the reference answer using different wording. It explains temporary storage, currently running programs, and loss of information after shutdown."
+    },
+    {
+      "question_id": "Q3",
+      "source_pages": [
+        "page1.jpg",
+        "page2.jpg"
+      ],
+      "expected_marks": 5,
+      "evaluation_case": "correct_across_multiple_pages",
+      "reason": "The answer correctly identifies an operating system as software, explains that it helps the user use the computer, states that it manages hardware, allows programs to run, and gives Windows as an example."
+    },
+    {
+      "question_id": "Q4",
+      "source_pages": [
+        "page2.jpg"
+      ],
+      "expected_marks": 0,
+      "evaluation_case": "incorrect_meaning_with_keywords",
+      "reason": "The answer incorrectly identifies the keyboard as an output device and describes displaying information. The expected concept is that a keyboard is an input device used to enter information."
+    },
+    {
+      "question_id": "Q5",
+      "source_pages": [
+        "page2.jpg"
+      ],
+      "expected_marks": 5,
+      "evaluation_case": "correct_with_extra_information",
+      "reason": "The answer correctly explains that a browser is software used to open and view websites on the internet and gives Google Chrome as an example. The additional information is relevant and does not contradict the answer."
+    }
+  ]
+}
