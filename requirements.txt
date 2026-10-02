@@ -1,0 +1,28 @@
+# Image Processing & Computer Vision
+pillow>=10.2.0
+opencv-python-headless>=4.9.0.80
+numpy>=1.26.0
+
+# Document & PDF Support
+pypdf>=4.0.0
+pymupdf>=1.23.0
+
+# OCR & Handwritten Text Recognition (Pre-trained)
+# Primary pre-trained engine: EasyOCR (runs CPU/GPU)
+easyocr>=1.7.1
+
+# Semantic Evaluation & NLP
+sentence-transformers>=2.5.0
+scikit-learn>=1.4.0
+
+# Data Modeling & Tabular Output
+pydantic>=2.6.0
+pandas>=2.2.0
+
+# Configuration & Utilities
+pyyaml>=6.0.1
+python-dotenv>=1.0.1
+tqdm>=4.66.0
+
+# Testing & Quality Assurance
+pytest>=8.0.0
