@@ -1,0 +1,163 @@
+{
+  "subject": "Computer Fundamentals",
+  "total_marks": 25,
+  "questions": [
+    {
+      "question_id": "Q1",
+      "question": "What is a computer? Give one example.",
+      "max_marks": 5,
+      "reference_answer": "A computer is an electronic device that accepts data as input, processes the data, and produces useful information as output. A desktop computer is an example.",
+      "expected_concepts": [
+        "A computer is an electronic device",
+        "It accepts data as input",
+        "It processes the input data",
+        "It produces useful information as output",
+        "A valid example of a computer is given"
+      ],
+      "rubric": [
+        {
+          "criterion": "Identifies a computer as an electronic device",
+          "marks": 1
+        },
+        {
+          "criterion": "Explains that a computer accepts or takes data as input",
+          "marks": 1
+        },
+        {
+          "criterion": "Explains that a computer processes the data",
+          "marks": 1
+        },
+        {
+          "criterion": "Explains that the computer produces information or output",
+          "marks": 1
+        },
+        {
+          "criterion": "Provides a valid example of a computer",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "question": "What is RAM?",
+      "max_marks": 5,
+      "reference_answer": "RAM (Random Access Memory) is temporary memory used to store data and programs that are currently being used by the computer. It is volatile memory, so its contents are lost when the computer is switched off.",
+      "expected_concepts": [
+        "RAM is a type of computer memory",
+        "It temporarily stores data",
+        "It stores data or programs currently being used",
+        "RAM is volatile memory",
+        "Its contents are lost when the computer is switched off"
+      ],
+      "rubric": [
+        {
+          "criterion": "Identifies RAM as computer memory",
+          "marks": 1
+        },
+        {
+          "criterion": "Explains that RAM temporarily stores data",
+          "marks": 2
+        },
+        {
+          "criterion": "Explains that RAM is used by currently running or active programs",
+          "marks": 1
+        },
+        {
+          "criterion": "Explains that RAM loses its stored information when power is switched off",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is an operating system? Give one example.",
+      "max_marks": 5,
+      "reference_answer": "An operating system is system software that manages computer hardware and software and allows the user to interact with the computer. Windows is an example.",
+      "expected_concepts": [
+        "An operating system is software",
+        "It helps the user interact with or use the computer",
+        "It manages computer hardware",
+        "It allows or manages programs to run",
+        "Windows is a valid example"
+      ],
+      "rubric": [
+        {
+          "criterion": "Identifies an operating system as software",
+          "marks": 1
+        },
+        {
+          "criterion": "Explains that it helps the user interact with or use the computer",
+          "marks": 1
+        },
+        {
+          "criterion": "Explains that it manages computer hardware",
+          "marks": 1
+        },
+        {
+          "criterion": "Explains that it allows or manages programs to run",
+          "marks": 1
+        },
+        {
+          "criterion": "Provides a valid example such as Windows",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "question": "What is the purpose of a keyboard?",
+      "max_marks": 5,
+      "reference_answer": "A keyboard is an input device used to enter text, numbers, and commands into a computer.",
+      "expected_concepts": [
+        "A keyboard is an input device",
+        "It is used to enter information into a computer",
+        "It can be used to enter text",
+        "It can be used to enter numbers or commands"
+      ],
+      "rubric": [
+        {
+          "criterion": "Correctly identifies a keyboard as an input device",
+          "marks": 2
+        },
+        {
+          "criterion": "Explains that a keyboard is used to enter information into a computer",
+          "marks": 2
+        },
+        {
+          "criterion": "Mentions a valid type of input such as text, numbers, or commands",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "question": "What is a web browser? Give one example.",
+      "max_marks": 5,
+      "reference_answer": "A web browser is software used to access and view websites on the internet. Google Chrome is an example.",
+      "expected_concepts": [
+        "A web browser is software or an application",
+        "It is used to open or access websites",
+        "It is used on the internet or web",
+        "Google Chrome is a valid example"
+      ],
+      "rubric": [
+        {
+          "criterion": "Identifies a web browser as software or an application",
+          "marks": 1
+        },
+        {
+          "criterion": "Explains that it is used to access or open websites",
+          "marks": 2
+        },
+        {
+          "criterion": "Connects its use with the internet or web",
+          "marks": 1
+        },
+        {
+          "criterion": "Provides a valid example such as Google Chrome",
+          "marks": 1
+        }
+      ]
+    }
+  ]
+}
