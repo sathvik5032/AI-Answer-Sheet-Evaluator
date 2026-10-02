@@ -1,0 +1,277 @@
+{
+  "student_id": "student_001",
+  "subject": "Computer Fundamentals",
+  "total_score": 20.0,
+  "total_max_score": 25.0,
+  "percentage": 80.0,
+  "human_review_required": true,
+  "human_review_questions": [
+    "Q5"
+  ],
+  "summary": {
+    "total_questions": 5,
+    "high_confidence_count": 4,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 1,
+    "human_review_required_count": 1
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "question_prompt": "What is a computer? Give one example.",
+      "model_answer": "A computer is an electronic device that accepts data as input, processes the data, and produces useful information as output. A desktop computer is an example.",
+      "extracted_answer": "1 A computer Es an electron\"ic device that takes data aS input and prbcess es it to jive use Al infmatior) aS oustput A desktoe Computer Rs an Example",
+      "score": 5.0,
+      "max_score": 5.0,
+      "score_vs_key": "5.0/5.0 marks: 5/5 rubric criteria satisfied [Q1_C1: satisfied (1.0m); Q1_C2: satisfied (1.0m); Q1_C3: satisfied (1.0m); Q1_C4: satisfied (1.0m); Q1_C5: satisfied (1.0m)].",
+      "confidence": "HIGH",
+      "reason": "Strong semantic alignment across all 5 rubric criteria with consistent supporting evidence.",
+      "human_review_required": false,
+      "criterion_evaluations": [
+        {
+          "criterion_id": "Q1_C1",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.748).",
+          "semantic_similarity": 0.7478
+        },
+        {
+          "criterion_id": "Q1_C2",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.751).",
+          "semantic_similarity": 0.751
+        },
+        {
+          "criterion_id": "Q1_C3",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.756).",
+          "semantic_similarity": 0.7556
+        },
+        {
+          "criterion_id": "Q1_C4",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.763).",
+          "semantic_similarity": 0.7631
+        },
+        {
+          "criterion_id": "Q1_C5",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.650).",
+          "semantic_similarity": 0.65
+        }
+      ],
+      "confidence_factors": {
+        "ocr_confidence": 0.6656,
+        "average_semantic_similarity": 0.7335,
+        "minimum_semantic_similarity": 0.65,
+        "word_count": 29,
+        "has_contradiction": false,
+        "low_confidence_token_ratio": 0.1786
+      }
+    },
+    {
+      "question_id": "Q2",
+      "question_prompt": "What is RAM?",
+      "model_answer": "RAM (Random Access Memory) is temporary memory used to store data and programs that are currently being used by the computer. It is volatile memory, so its contents are lost when the computer is switched off.",
+      "extracted_answer": "2 , RA M the memosy thal sthe  Computea Lt tempora rily use_ thile psograms data_  needed ave, runrfnq the ps ograms , and keers the the Infmation Es lost then the  Comutex Swf tched off .",
+      "score": 5.0,
+      "max_score": 5.0,
+      "score_vs_key": "5.0/5.0 marks: 4/4 rubric criteria satisfied [Q2_C1: satisfied (1.0m); Q2_C2: satisfied (2.0m); Q2_C3: satisfied (1.0m); Q2_C4: satisfied (1.0m)].",
+      "confidence": "HIGH",
+      "reason": "Strong semantic alignment across all 4 rubric criteria with consistent supporting evidence.",
+      "human_review_required": false,
+      "criterion_evaluations": [
+        {
+          "criterion_id": "Q2_C1",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.555).",
+          "semantic_similarity": 0.5552
+        },
+        {
+          "criterion_id": "Q2_C2",
+          "status": "satisfied",
+          "marks_awarded": 2.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.626).",
+          "semantic_similarity": 0.6256
+        },
+        {
+          "criterion_id": "Q2_C3",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.549).",
+          "semantic_similarity": 0.5491
+        },
+        {
+          "criterion_id": "Q2_C4",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.560).",
+          "semantic_similarity": 0.5597
+        }
+      ],
+      "confidence_factors": {
+        "ocr_confidence": 0.6444,
+        "average_semantic_similarity": 0.5724,
+        "minimum_semantic_similarity": 0.5491,
+        "word_count": 37,
+        "has_contradiction": false,
+        "low_confidence_token_ratio": 0.2857
+      }
+    },
+    {
+      "question_id": "Q3",
+      "question_prompt": "What is an operating system? Give one example.",
+      "model_answer": "An operating system is system software that manages computer hardware and software and allows the user to interact with the computer. Windows is an example.",
+      "extracted_answer": "3, An operating Sy ster So/tware that helps the user use the Compube 6 Tt manages the hardware and allows psograms to tun) Uindows 8s an example",
+      "score": 5.0,
+      "max_score": 5.0,
+      "score_vs_key": "5.0/5.0 marks: 5/5 rubric criteria satisfied [Q3_C1: satisfied (1.0m); Q3_C2: satisfied (1.0m); Q3_C3: satisfied (1.0m); Q3_C4: satisfied (1.0m); Q3_C5: satisfied (1.0m)].",
+      "confidence": "HIGH",
+      "reason": "Strong semantic alignment across all 5 rubric criteria with consistent supporting evidence.",
+      "human_review_required": false,
+      "criterion_evaluations": [
+        {
+          "criterion_id": "Q3_C1",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.637).",
+          "semantic_similarity": 0.6374
+        },
+        {
+          "criterion_id": "Q3_C2",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.488).",
+          "semantic_similarity": 0.4882
+        },
+        {
+          "criterion_id": "Q3_C3",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.643).",
+          "semantic_similarity": 0.6425
+        },
+        {
+          "criterion_id": "Q3_C4",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.593).",
+          "semantic_similarity": 0.5933
+        },
+        {
+          "criterion_id": "Q3_C5",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.650).",
+          "semantic_similarity": 0.65
+        }
+      ],
+      "confidence_factors": {
+        "ocr_confidence": 0.6865,
+        "average_semantic_similarity": 0.6023,
+        "minimum_semantic_similarity": 0.4882,
+        "word_count": 27,
+        "has_contradiction": false,
+        "low_confidence_token_ratio": 0.3043
+      }
+    },
+    {
+      "question_id": "Q4",
+      "question_prompt": "What is the purpose of a keyboard?",
+      "model_answer": "A keyboard is an input device used to enter text, numbers, and commands into a computer.",
+      "extracted_answer": "4- A ketboard 2s an output   device that dtsplay: lettens ad numbers On the computer seqeen It 8s maln used to ghoco  infocmaton to the user-",
+      "score": 0.0,
+      "max_score": 5.0,
+      "score_vs_key": "0/5.0 marks: Factually contradictory assertion detected. Student asserted opposing classification (Contradiction detected: Criterion requires identifying an input device / data entry, but student asserted an output device / screen display.) contrary to rubric requirement.",
+      "confidence": "HIGH",
+      "reason": "Explicit contradiction with the rubric requirement in Q4_C1 provides strong evidence for the 0-mark decision (Contradiction detected: Criterion requires identifying an input device / data entry, but student asserted an output device / screen display.).",
+      "human_review_required": false,
+      "criterion_evaluations": [
+        {
+          "criterion_id": "Q4_C1",
+          "status": "contradicted",
+          "marks_awarded": 0.0,
+          "reason": "Contradiction detected: Criterion requires identifying an input device / data entry, but student asserted an output device / screen display.",
+          "semantic_similarity": 0.0
+        },
+        {
+          "criterion_id": "Q4_C2",
+          "status": "contradicted",
+          "marks_awarded": 0.0,
+          "reason": "Contradiction detected: Criterion requires identifying an input device / data entry, but student asserted an output device / screen display.",
+          "semantic_similarity": 0.0
+        },
+        {
+          "criterion_id": "Q4_C3",
+          "status": "contradicted",
+          "marks_awarded": 0.0,
+          "reason": "Contradiction detected: Criterion requires identifying an input device / data entry, but student asserted an output device / screen display.",
+          "semantic_similarity": 0.0
+        }
+      ],
+      "confidence_factors": {
+        "ocr_confidence": 0.667,
+        "average_semantic_similarity": 0.0,
+        "minimum_semantic_similarity": 0.0,
+        "word_count": 26,
+        "has_contradiction": true,
+        "low_confidence_token_ratio": 0.25
+      }
+    },
+    {
+      "question_id": "Q5",
+      "question_prompt": "What is a web browser? Give one example.",
+      "model_answer": "A web browser is software used to access and view websites on the internet. Google Chrome is an example.",
+      "extracted_answer": "5. 4 {5 Sottwaxe usedl to olen and Se \u20ac webs (tes on theinternet Fox   examile, Gooq\" le (haone i a brouSer Sometlmgf 1 used- iE +0 Search 80 Forma tn ad di (feaent websi Tes",
+      "score": 5.0,
+      "max_score": 5.0,
+      "score_vs_key": "5.0/5.0 marks: 4/4 rubric criteria satisfied [Q5_C1: satisfied (1.0m); Q5_C2: satisfied (2.0m); Q5_C3: satisfied (1.0m); Q5_C4: satisfied (1.0m)].",
+      "confidence": "LOW",
+      "reason": "Answer satisfies all 4 rubric criteria, but handwriting and OCR quality introduce substantial uncertainty (44% low-confidence tokens); human review is required.",
+      "human_review_required": true,
+      "criterion_evaluations": [
+        {
+          "criterion_id": "Q5_C1",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.518).",
+          "semantic_similarity": 0.5177
+        },
+        {
+          "criterion_id": "Q5_C2",
+          "status": "satisfied",
+          "marks_awarded": 2.0,
+          "reason": "Concept satisfied with strong semantic alignment (similarity: 0.559).",
+          "semantic_similarity": 0.5589
+        },
+        {
+          "criterion_id": "Q5_C3",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied despite different wording / OCR noise (similarity: 0.420).",
+          "semantic_similarity": 0.42
+        },
+        {
+          "criterion_id": "Q5_C4",
+          "status": "satisfied",
+          "marks_awarded": 1.0,
+          "reason": "Concept satisfied despite different wording / OCR noise (similarity: 0.427).",
+          "semantic_similarity": 0.4272
+        }
+      ],
+      "confidence_factors": {
+        "ocr_confidence": 0.6098,
+        "average_semantic_similarity": 0.4809,
+        "minimum_semantic_similarity": 0.42,
+        "word_count": 36,
+        "has_contradiction": false,
+        "low_confidence_token_ratio": 0.4375
+      }
+    }
+  ]
+}

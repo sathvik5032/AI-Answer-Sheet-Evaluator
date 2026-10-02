@@ -1,0 +1,11 @@
+# Approach Note: Handwritten Answer Sheet Evaluation Pipeline
+
+1. **Input & Preprocessing**: Two-page handwritten student answer sheets (`page1.jpg`, `page2.jpg`) are preprocessed via adaptive thresholding, bilateral noise filtering, and deskewing to optimize contrast for text extraction.
+2. **OCR / HTR Extraction**: EasyOCR extracts handwritten bounding boxes, text fragments, and detection confidences while strictly preserving spatial coordinates and page associations without merging separate submissions.
+3. **Question Segmentation & Cross-Page Handling**: A boundary-detection parser groups OCR lines into structured question blocks (Q1–Q5), maintaining a cross-page continuity buffer so answers spanning page boundaries (e.g., Q3) are unified into a single answer.
+4. **Semantic Rubric Evaluation**: Sentence embeddings (`all-MiniLM-L6-v2`) evaluate student answers against fine-grained rubric criteria, awarding marks based on conceptual coverage, domain examples, and semantic alignment rather than surface keyword matching.
+5. **Contradiction Detection**: Generalized domain-opposition rules inspect assertions against expected roles (e.g., classifying a keyboard as an output device displaying text), overriding keyword overlap to award zero marks when fundamental contradictions occur.
+6. **Multi-Factor Confidence Estimation**: Evaluation confidence (HIGH/MEDIUM/LOW) is determined dynamically from semantic alignment, decision margins, mean OCR quality, and the proportion of low-confidence tokens, distinguishing evaluation certainty from raw OCR scores.
+7. **Human-Review Routing**: Low-confidence evaluations—such as answers satisfying the rubric but derived from severely noisy or degraded handwriting (e.g., Q5 with 44% low-confidence tokens)—are automatically flagged for human verification.
+8. **Standardized Reporting**: Evaluation outcomes, scores, evidence breakdowns, confidence justifications, and review flags are consolidated into standardized JSON and tabular CSV reports (`student_001_final_evaluation.json/csv`).
+9. **Limitations & Operational Boundaries**: The pipeline is an assistive grading framework, not an infallible automated evaluator; out-of-vocabulary handwriting distortions, novel domain oppositions, and severely degraded handwriting necessitate human oversight.
