@@ -1,0 +1,4252 @@
+{
+  "student_id": "student_001",
+  "total_answers": 5,
+  "answers": [
+    {
+      "question_id": "Q1",
+      "source_pages": [
+        "page1.jpg"
+      ],
+      "text": "1 A computer Es an electron\"ic device that takes data aS input and prbcess es it to jive use Al infmatior) aS oustput A desktoe Computer Rs an Example",
+      "ocr_item_count": 28,
+      "average_confidence": 0.6656,
+      "items": [
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 1,
+          "text": "device",
+          "confidence": 0.9831,
+          "bbox": [
+            [
+              609,
+              199
+            ],
+            [
+              707,
+              199
+            ],
+            [
+              707,
+              235
+            ],
+            [
+              609,
+              235
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 609,
+            "y_min": 199,
+            "x_max": 707,
+            "y_max": 235
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 2,
+          "text": "takes",
+          "confidence": 0.9505,
+          "bbox": [
+            [
+              824,
+              198
+            ],
+            [
+              912,
+              198
+            ],
+            [
+              912,
+              224
+            ],
+            [
+              824,
+              224
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 824,
+            "y_min": 198,
+            "x_max": 912,
+            "y_max": 224
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 3,
+          "text": "A",
+          "confidence": 0.6033,
+          "bbox": [
+            [
+              135,
+              215
+            ],
+            [
+              155,
+              215
+            ],
+            [
+              155,
+              243
+            ],
+            [
+              135,
+              243
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 135,
+            "y_min": 215,
+            "x_max": 155,
+            "y_max": 243
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 4,
+          "text": "computer",
+          "confidence": 0.5817,
+          "bbox": [
+            [
+              174,
+              217
+            ],
+            [
+              304,
+              203
+            ],
+            [
+              307,
+              245
+            ],
+            [
+              177,
+              260
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 174,
+            "y_min": 203,
+            "x_max": 307,
+            "y_max": 260
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 5,
+          "text": "Es",
+          "confidence": 0.2349,
+          "bbox": [
+            [
+              318,
+              210
+            ],
+            [
+              344,
+              210
+            ],
+            [
+              344,
+              236
+            ],
+            [
+              318,
+              236
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 318,
+            "y_min": 210,
+            "x_max": 344,
+            "y_max": 236
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 6,
+          "text": "an",
+          "confidence": 0.9317,
+          "bbox": [
+            [
+              376,
+              210
+            ],
+            [
+              423,
+              210
+            ],
+            [
+              423,
+              237
+            ],
+            [
+              376,
+              237
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 376,
+            "y_min": 210,
+            "x_max": 423,
+            "y_max": 237
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 7,
+          "text": "electron\"ic",
+          "confidence": 0.6457,
+          "bbox": [
+            [
+              444,
+              200
+            ],
+            [
+              587,
+              200
+            ],
+            [
+              587,
+              236
+            ],
+            [
+              444,
+              236
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 444,
+            "y_min": 200,
+            "x_max": 587,
+            "y_max": 236
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 8,
+          "text": "that",
+          "confidence": 0.5673,
+          "bbox": [
+            [
+              728,
+              200
+            ],
+            [
+              802,
+              200
+            ],
+            [
+              802,
+              232
+            ],
+            [
+              728,
+              232
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 728,
+            "y_min": 200,
+            "x_max": 802,
+            "y_max": 232
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 9,
+          "text": "1",
+          "confidence": 0.9934,
+          "bbox": [
+            [
+              89,
+              221
+            ],
+            [
+              109,
+              221
+            ],
+            [
+              109,
+              247
+            ],
+            [
+              89,
+              247
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 89,
+            "y_min": 221,
+            "x_max": 109,
+            "y_max": 247
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 10,
+          "text": "it",
+          "confidence": 0.7302,
+          "bbox": [
+            [
+              624,
+              258
+            ],
+            [
+              662,
+              258
+            ],
+            [
+              662,
+              286
+            ],
+            [
+              624,
+              286
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 624,
+            "y_min": 258,
+            "x_max": 662,
+            "y_max": 286
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 11,
+          "text": "to",
+          "confidence": 0.9837,
+          "bbox": [
+            [
+              692,
+              258
+            ],
+            [
+              728,
+              258
+            ],
+            [
+              728,
+              282
+            ],
+            [
+              692,
+              282
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 692,
+            "y_min": 258,
+            "x_max": 728,
+            "y_max": 282
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 12,
+          "text": "jive",
+          "confidence": 0.4651,
+          "bbox": [
+            [
+              749,
+              257
+            ],
+            [
+              829,
+              257
+            ],
+            [
+              829,
+              301
+            ],
+            [
+              749,
+              301
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 749,
+            "y_min": 257,
+            "x_max": 829,
+            "y_max": 301
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 13,
+          "text": "data",
+          "confidence": 0.5544,
+          "bbox": [
+            [
+              134,
+              272
+            ],
+            [
+              208,
+              272
+            ],
+            [
+              208,
+              304
+            ],
+            [
+              134,
+              304
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 134,
+            "y_min": 272,
+            "x_max": 208,
+            "y_max": 304
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 14,
+          "text": "aS",
+          "confidence": 0.2435,
+          "bbox": [
+            [
+              228,
+              274
+            ],
+            [
+              270,
+              274
+            ],
+            [
+              270,
+              298
+            ],
+            [
+              228,
+              298
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 228,
+            "y_min": 274,
+            "x_max": 270,
+            "y_max": 298
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 15,
+          "text": "input",
+          "confidence": 0.631,
+          "bbox": [
+            [
+              286,
+              265
+            ],
+            [
+              374,
+              265
+            ],
+            [
+              374,
+              307
+            ],
+            [
+              286,
+              307
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 286,
+            "y_min": 265,
+            "x_max": 374,
+            "y_max": 307
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 16,
+          "text": "and",
+          "confidence": 0.5749,
+          "bbox": [
+            [
+              390,
+              262
+            ],
+            [
+              442,
+              262
+            ],
+            [
+              442,
+              292
+            ],
+            [
+              390,
+              292
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 390,
+            "y_min": 262,
+            "x_max": 442,
+            "y_max": 292
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 17,
+          "text": "prbcess es",
+          "confidence": 0.7569,
+          "bbox": [
+            [
+              456,
+              263
+            ],
+            [
+              601,
+              263
+            ],
+            [
+              601,
+              299
+            ],
+            [
+              456,
+              299
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 456,
+            "y_min": 263,
+            "x_max": 601,
+            "y_max": 299
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 18,
+          "text": "aS",
+          "confidence": 0.7771,
+          "bbox": [
+            [
+              428,
+              321
+            ],
+            [
+              469,
+              318
+            ],
+            [
+              470,
+              343
+            ],
+            [
+              429,
+              346
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 428,
+            "y_min": 318,
+            "x_max": 470,
+            "y_max": 346
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 19,
+          "text": "oustput",
+          "confidence": 0.2984,
+          "bbox": [
+            [
+              490,
+              316
+            ],
+            [
+              602,
+              316
+            ],
+            [
+              602,
+              357
+            ],
+            [
+              490,
+              357
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 490,
+            "y_min": 316,
+            "x_max": 602,
+            "y_max": 357
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 20,
+          "text": "A",
+          "confidence": 0.6728,
+          "bbox": [
+            [
+              639,
+              313
+            ],
+            [
+              659,
+              313
+            ],
+            [
+              659,
+              337
+            ],
+            [
+              639,
+              337
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 639,
+            "y_min": 313,
+            "x_max": 659,
+            "y_max": 337
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 21,
+          "text": "desktoe",
+          "confidence": 0.6788,
+          "bbox": [
+            [
+              678,
+              308
+            ],
+            [
+              799,
+              308
+            ],
+            [
+              799,
+              347
+            ],
+            [
+              678,
+              347
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 678,
+            "y_min": 308,
+            "x_max": 799,
+            "y_max": 347
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 22,
+          "text": "use",
+          "confidence": 0.8464,
+          "bbox": [
+            [
+              140,
+              336
+            ],
+            [
+              186,
+              336
+            ],
+            [
+              186,
+              362
+            ],
+            [
+              140,
+              362
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 140,
+            "y_min": 336,
+            "x_max": 186,
+            "y_max": 362
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 23,
+          "text": "Al",
+          "confidence": 0.6749,
+          "bbox": [
+            [
+              183,
+              321
+            ],
+            [
+              237,
+              321
+            ],
+            [
+              237,
+              361
+            ],
+            [
+              183,
+              361
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 183,
+            "y_min": 321,
+            "x_max": 237,
+            "y_max": 361
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 24,
+          "text": "infmatior)",
+          "confidence": 0.3042,
+          "bbox": [
+            [
+              258,
+              322
+            ],
+            [
+              412,
+              322
+            ],
+            [
+              412,
+              352
+            ],
+            [
+              258,
+              352
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 258,
+            "y_min": 322,
+            "x_max": 412,
+            "y_max": 352
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 25,
+          "text": "Example",
+          "confidence": 0.5548,
+          "bbox": [
+            [
+              410,
+              384
+            ],
+            [
+              532,
+              375
+            ],
+            [
+              533,
+              413
+            ],
+            [
+              411,
+              423
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 410,
+            "y_min": 375,
+            "x_max": 533,
+            "y_max": 423
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 26,
+          "text": "Computer",
+          "confidence": 0.8836,
+          "bbox": [
+            [
+              140,
+              391
+            ],
+            [
+              272,
+              391
+            ],
+            [
+              272,
+              432
+            ],
+            [
+              140,
+              432
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 140,
+            "y_min": 391,
+            "x_max": 272,
+            "y_max": 432
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 27,
+          "text": "Rs",
+          "confidence": 0.5143,
+          "bbox": [
+            [
+              288,
+              386
+            ],
+            [
+              314,
+              386
+            ],
+            [
+              314,
+              412
+            ],
+            [
+              288,
+              412
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 288,
+            "y_min": 386,
+            "x_max": 314,
+            "y_max": 412
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 28,
+          "text": "an",
+          "confidence": 0.9997,
+          "bbox": [
+            [
+              347,
+              391
+            ],
+            [
+              385,
+              391
+            ],
+            [
+              385,
+              411
+            ],
+            [
+              347,
+              411
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 347,
+            "y_min": 391,
+            "x_max": 385,
+            "y_max": 411
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "source_pages": [
+        "page1.jpg"
+      ],
+      "text": "2 , RA M the memosy thal sthe  Computea Lt tempora rily use_ thile psograms data_  needed ave, runrfnq the ps ograms , and keers the the Infmation Es lost then the  Comutex Swf tched off .",
+      "ocr_item_count": 28,
+      "average_confidence": 0.6444,
+      "items": [
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 29,
+          "text": "thal",
+          "confidence": 0.841,
+          "bbox": [
+            [
+              492,
+              618
+            ],
+            [
+              560,
+              618
+            ],
+            [
+              560,
+              648
+            ],
+            [
+              492,
+              648
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 492,
+            "y_min": 618,
+            "x_max": 560,
+            "y_max": 648
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 30,
+          "text": "sthe  Computea",
+          "confidence": 0.3055,
+          "bbox": [
+            [
+              579,
+              608
+            ],
+            [
+              780,
+              608
+            ],
+            [
+              780,
+              650
+            ],
+            [
+              579,
+              650
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 579,
+            "y_min": 608,
+            "x_max": 780,
+            "y_max": 650
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 31,
+          "text": "use_",
+          "confidence": 0.5048,
+          "bbox": [
+            [
+              800,
+              608
+            ],
+            [
+              864,
+              608
+            ],
+            [
+              864,
+              632
+            ],
+            [
+              800,
+              632
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 800,
+            "y_min": 608,
+            "x_max": 864,
+            "y_max": 632
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 32,
+          "text": "RA M",
+          "confidence": 0.5538,
+          "bbox": [
+            [
+              149,
+              635
+            ],
+            [
+              219,
+              635
+            ],
+            [
+              219,
+              671
+            ],
+            [
+              149,
+              671
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 149,
+            "y_min": 635,
+            "x_max": 219,
+            "y_max": 671
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 33,
+          "text": "the",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              290,
+              632
+            ],
+            [
+              342,
+              632
+            ],
+            [
+              342,
+              662
+            ],
+            [
+              290,
+              662
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 290,
+            "y_min": 632,
+            "x_max": 342,
+            "y_max": 662
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 34,
+          "text": "memosy",
+          "confidence": 0.3804,
+          "bbox": [
+            [
+              359,
+              629
+            ],
+            [
+              469,
+              629
+            ],
+            [
+              469,
+              667
+            ],
+            [
+              359,
+              667
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 359,
+            "y_min": 629,
+            "x_max": 469,
+            "y_max": 667
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 35,
+          "text": "2 ,",
+          "confidence": 0.3887,
+          "bbox": [
+            [
+              107,
+              655
+            ],
+            [
+              133,
+              655
+            ],
+            [
+              133,
+              673
+            ],
+            [
+              107,
+              673
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 107,
+            "y_min": 655,
+            "x_max": 133,
+            "y_max": 673
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 36,
+          "text": "Lt",
+          "confidence": 0.819,
+          "bbox": [
+            [
+              628,
+              658
+            ],
+            [
+              672,
+              658
+            ],
+            [
+              672,
+              688
+            ],
+            [
+              628,
+              688
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 628,
+            "y_min": 658,
+            "x_max": 672,
+            "y_max": 688
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 37,
+          "text": "tempora rily",
+          "confidence": 0.8474,
+          "bbox": [
+            [
+              691,
+              644
+            ],
+            [
+              874,
+              644
+            ],
+            [
+              874,
+              695
+            ],
+            [
+              691,
+              695
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 691,
+            "y_min": 644,
+            "x_max": 874,
+            "y_max": 695
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 38,
+          "text": "psograms",
+          "confidence": 0.8272,
+          "bbox": [
+            [
+              256,
+              679
+            ],
+            [
+              387,
+              679
+            ],
+            [
+              387,
+              734
+            ],
+            [
+              256,
+              734
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 256,
+            "y_min": 679,
+            "x_max": 387,
+            "y_max": 734
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 39,
+          "text": "runrfnq",
+          "confidence": 0.393,
+          "bbox": [
+            [
+              476,
+              661
+            ],
+            [
+              589,
+              661
+            ],
+            [
+              589,
+              715
+            ],
+            [
+              476,
+              715
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 476,
+            "y_min": 661,
+            "x_max": 589,
+            "y_max": 715
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 40,
+          "text": "thile",
+          "confidence": 0.6573,
+          "bbox": [
+            [
+              151,
+              689
+            ],
+            [
+              236,
+              689
+            ],
+            [
+              236,
+              728
+            ],
+            [
+              151,
+              728
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 151,
+            "y_min": 689,
+            "x_max": 236,
+            "y_max": 728
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 41,
+          "text": "ave,",
+          "confidence": 0.2131,
+          "bbox": [
+            [
+              410,
+              680
+            ],
+            [
+              468,
+              680
+            ],
+            [
+              468,
+              704
+            ],
+            [
+              410,
+              704
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 410,
+            "y_min": 680,
+            "x_max": 468,
+            "y_max": 704
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 42,
+          "text": "and",
+          "confidence": 0.5615,
+          "bbox": [
+            [
+              841,
+              705
+            ],
+            [
+              909,
+              697
+            ],
+            [
+              912,
+              737
+            ],
+            [
+              844,
+              745
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 841,
+            "y_min": 697,
+            "x_max": 912,
+            "y_max": 745
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 43,
+          "text": "data_  needed",
+          "confidence": 0.7505,
+          "bbox": [
+            [
+              330,
+              712
+            ],
+            [
+              533,
+              712
+            ],
+            [
+              533,
+              766
+            ],
+            [
+              330,
+              766
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 330,
+            "y_min": 712,
+            "x_max": 533,
+            "y_max": 766
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 44,
+          "text": "the",
+          "confidence": 0.7626,
+          "bbox": [
+            [
+              622,
+              712
+            ],
+            [
+              678,
+              712
+            ],
+            [
+              678,
+              744
+            ],
+            [
+              622,
+              744
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 622,
+            "y_min": 712,
+            "x_max": 678,
+            "y_max": 744
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 45,
+          "text": "ps ograms ,",
+          "confidence": 0.3005,
+          "bbox": [
+            [
+              695,
+              709
+            ],
+            [
+              842,
+              709
+            ],
+            [
+              842,
+              758
+            ],
+            [
+              695,
+              758
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 695,
+            "y_min": 709,
+            "x_max": 842,
+            "y_max": 758
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 46,
+          "text": "the",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              262,
+              738
+            ],
+            [
+              316,
+              738
+            ],
+            [
+              316,
+              766
+            ],
+            [
+              262,
+              766
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 262,
+            "y_min": 738,
+            "x_max": 316,
+            "y_max": 766
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 47,
+          "text": "keers",
+          "confidence": 0.3431,
+          "bbox": [
+            [
+              159,
+              747
+            ],
+            [
+              237,
+              747
+            ],
+            [
+              237,
+              785
+            ],
+            [
+              159,
+              785
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 159,
+            "y_min": 747,
+            "x_max": 237,
+            "y_max": 785
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 48,
+          "text": "the  Comutex",
+          "confidence": 0.5387,
+          "bbox": [
+            [
+              597,
+              773
+            ],
+            [
+              806,
+              773
+            ],
+            [
+              806,
+              816
+            ],
+            [
+              597,
+              816
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 597,
+            "y_min": 773,
+            "x_max": 806,
+            "y_max": 816
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 49,
+          "text": "Infmation",
+          "confidence": 0.6853,
+          "bbox": [
+            [
+              223,
+              795
+            ],
+            [
+              377,
+              795
+            ],
+            [
+              377,
+              833
+            ],
+            [
+              223,
+              833
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 223,
+            "y_min": 795,
+            "x_max": 377,
+            "y_max": 833
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 50,
+          "text": "Es",
+          "confidence": 0.832,
+          "bbox": [
+            [
+              396,
+              792
+            ],
+            [
+              420,
+              792
+            ],
+            [
+              420,
+              820
+            ],
+            [
+              396,
+              820
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 396,
+            "y_min": 792,
+            "x_max": 420,
+            "y_max": 820
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 51,
+          "text": "lost",
+          "confidence": 0.9988,
+          "bbox": [
+            [
+              432,
+              788
+            ],
+            [
+              492,
+              788
+            ],
+            [
+              492,
+              816
+            ],
+            [
+              432,
+              816
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 432,
+            "y_min": 788,
+            "x_max": 492,
+            "y_max": 816
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 52,
+          "text": "then",
+          "confidence": 0.6707,
+          "bbox": [
+            [
+              516,
+              782
+            ],
+            [
+              582,
+              782
+            ],
+            [
+              582,
+              812
+            ],
+            [
+              516,
+              812
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 516,
+            "y_min": 782,
+            "x_max": 582,
+            "y_max": 812
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 53,
+          "text": "the",
+          "confidence": 0.8665,
+          "bbox": [
+            [
+              156,
+              808
+            ],
+            [
+              204,
+              808
+            ],
+            [
+              204,
+              840
+            ],
+            [
+              156,
+              840
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 156,
+            "y_min": 808,
+            "x_max": 204,
+            "y_max": 840
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 54,
+          "text": "tched",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              203,
+              854
+            ],
+            [
+              284,
+              854
+            ],
+            [
+              284,
+              894
+            ],
+            [
+              203,
+              894
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 203,
+            "y_min": 854,
+            "x_max": 284,
+            "y_max": 894
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 55,
+          "text": "off .",
+          "confidence": 0.7922,
+          "bbox": [
+            [
+              300,
+              851
+            ],
+            [
+              363,
+              844
+            ],
+            [
+              365,
+              881
+            ],
+            [
+              302,
+              888
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 300,
+            "y_min": 844,
+            "x_max": 365,
+            "y_max": 888
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 56,
+          "text": "Swf",
+          "confidence": 0.2088,
+          "bbox": [
+            [
+              160,
+              868
+            ],
+            [
+              208,
+              868
+            ],
+            [
+              208,
+              894
+            ],
+            [
+              160,
+              894
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 160,
+            "y_min": 868,
+            "x_max": 208,
+            "y_max": 894
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "source_pages": [
+        "page1.jpg",
+        "page2.jpg"
+      ],
+      "text": "3, An operating Sy ster So/tware that helps the user use the Compube 6 Tt manages the hardware and allows psograms to tun) Uindows 8s an example",
+      "ocr_item_count": 23,
+      "average_confidence": 0.6865,
+      "items": [
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 57,
+          "text": "operating",
+          "confidence": 0.2974,
+          "bbox": [
+            [
+              220,
+              1117
+            ],
+            [
+              369,
+              1117
+            ],
+            [
+              369,
+              1172
+            ],
+            [
+              220,
+              1172
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 220,
+            "y_min": 1117,
+            "x_max": 369,
+            "y_max": 1172
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 58,
+          "text": "So/tware",
+          "confidence": 0.2548,
+          "bbox": [
+            [
+              592,
+              1116
+            ],
+            [
+              751,
+              1116
+            ],
+            [
+              751,
+              1168
+            ],
+            [
+              592,
+              1168
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 592,
+            "y_min": 1116,
+            "x_max": 751,
+            "y_max": 1168
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 59,
+          "text": "3,",
+          "confidence": 0.8108,
+          "bbox": [
+            [
+              106,
+              1126
+            ],
+            [
+              138,
+              1126
+            ],
+            [
+              138,
+              1156
+            ],
+            [
+              106,
+              1156
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 106,
+            "y_min": 1126,
+            "x_max": 138,
+            "y_max": 1156
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 60,
+          "text": "An",
+          "confidence": 0.9837,
+          "bbox": [
+            [
+              157,
+              1125
+            ],
+            [
+              195,
+              1125
+            ],
+            [
+              195,
+              1161
+            ],
+            [
+              157,
+              1161
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 157,
+            "y_min": 1125,
+            "x_max": 195,
+            "y_max": 1161
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 61,
+          "text": "Sy ster",
+          "confidence": 0.894,
+          "bbox": [
+            [
+              399,
+              1123
+            ],
+            [
+              513,
+              1123
+            ],
+            [
+              513,
+              1167
+            ],
+            [
+              399,
+              1167
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 399,
+            "y_min": 1123,
+            "x_max": 513,
+            "y_max": 1167
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 62,
+          "text": "that helps",
+          "confidence": 0.7915,
+          "bbox": [
+            [
+              775,
+              1127
+            ],
+            [
+              947,
+              1127
+            ],
+            [
+              947,
+              1169
+            ],
+            [
+              775,
+              1169
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 775,
+            "y_min": 1127,
+            "x_max": 947,
+            "y_max": 1169
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 63,
+          "text": "Tt manages",
+          "confidence": 0.3565,
+          "bbox": [
+            [
+              651,
+              1191
+            ],
+            [
+              855,
+              1191
+            ],
+            [
+              855,
+              1251
+            ],
+            [
+              651,
+              1251
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 651,
+            "y_min": 1191,
+            "x_max": 855,
+            "y_max": 1251
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 64,
+          "text": "the",
+          "confidence": 0.9991,
+          "bbox": [
+            [
+              878,
+              1189
+            ],
+            [
+              941,
+              1201
+            ],
+            [
+              933,
+              1237
+            ],
+            [
+              870,
+              1225
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 870,
+            "y_min": 1189,
+            "x_max": 941,
+            "y_max": 1237
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 65,
+          "text": "the",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              159,
+              1203
+            ],
+            [
+              213,
+              1203
+            ],
+            [
+              213,
+              1241
+            ],
+            [
+              159,
+              1241
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 159,
+            "y_min": 1203,
+            "x_max": 213,
+            "y_max": 1241
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 66,
+          "text": "user",
+          "confidence": 0.8618,
+          "bbox": [
+            [
+              230,
+              1212
+            ],
+            [
+              300,
+              1212
+            ],
+            [
+              300,
+              1238
+            ],
+            [
+              230,
+              1238
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 230,
+            "y_min": 1212,
+            "x_max": 300,
+            "y_max": 1238
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 67,
+          "text": "use",
+          "confidence": 0.4717,
+          "bbox": [
+            [
+              322,
+              1210
+            ],
+            [
+              372,
+              1210
+            ],
+            [
+              372,
+              1236
+            ],
+            [
+              322,
+              1236
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 322,
+            "y_min": 1210,
+            "x_max": 372,
+            "y_max": 1236
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 68,
+          "text": "the",
+          "confidence": 0.9983,
+          "bbox": [
+            [
+              399,
+              1201
+            ],
+            [
+              453,
+              1201
+            ],
+            [
+              453,
+              1237
+            ],
+            [
+              399,
+              1237
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 399,
+            "y_min": 1201,
+            "x_max": 453,
+            "y_max": 1237
+          }
+        },
+        {
+          "page_number": 1,
+          "source_file": "page1.jpg",
+          "order": 69,
+          "text": "Compube 6",
+          "confidence": 0.6378,
+          "bbox": [
+            [
+              476,
+              1202
+            ],
+            [
+              627,
+              1202
+            ],
+            [
+              627,
+              1244
+            ],
+            [
+              476,
+              1244
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 476,
+            "y_min": 1202,
+            "x_max": 627,
+            "y_max": 1244
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 1,
+          "text": "hardware",
+          "confidence": 0.7387,
+          "bbox": [
+            [
+              110,
+              118
+            ],
+            [
+              265,
+              118
+            ],
+            [
+              265,
+              160
+            ],
+            [
+              110,
+              160
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 110,
+            "y_min": 118,
+            "x_max": 265,
+            "y_max": 160
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 2,
+          "text": "and",
+          "confidence": 0.9992,
+          "bbox": [
+            [
+              301,
+              115
+            ],
+            [
+              369,
+              115
+            ],
+            [
+              369,
+              153
+            ],
+            [
+              301,
+              153
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 301,
+            "y_min": 115,
+            "x_max": 369,
+            "y_max": 153
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 3,
+          "text": "allows",
+          "confidence": 0.6386,
+          "bbox": [
+            [
+              399,
+              115
+            ],
+            [
+              505,
+              115
+            ],
+            [
+              505,
+              151
+            ],
+            [
+              399,
+              151
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 399,
+            "y_min": 115,
+            "x_max": 505,
+            "y_max": 151
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 4,
+          "text": "psograms",
+          "confidence": 0.2907,
+          "bbox": [
+            [
+              529,
+              119
+            ],
+            [
+              689,
+              119
+            ],
+            [
+              689,
+              161
+            ],
+            [
+              529,
+              161
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 529,
+            "y_min": 119,
+            "x_max": 689,
+            "y_max": 161
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 5,
+          "text": "to",
+          "confidence": 0.6588,
+          "bbox": [
+            [
+              710,
+              116
+            ],
+            [
+              746,
+              116
+            ],
+            [
+              746,
+              148
+            ],
+            [
+              710,
+              148
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 710,
+            "y_min": 116,
+            "x_max": 746,
+            "y_max": 148
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 6,
+          "text": "tun)",
+          "confidence": 0.2141,
+          "bbox": [
+            [
+              756,
+              121
+            ],
+            [
+              828,
+              121
+            ],
+            [
+              828,
+              151
+            ],
+            [
+              756,
+              151
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 756,
+            "y_min": 121,
+            "x_max": 828,
+            "y_max": 151
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 7,
+          "text": "example",
+          "confidence": 0.8669,
+          "bbox": [
+            [
+              396,
+              176
+            ],
+            [
+              542,
+              176
+            ],
+            [
+              542,
+              224
+            ],
+            [
+              396,
+              224
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 396,
+            "y_min": 176,
+            "x_max": 542,
+            "y_max": 224
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 8,
+          "text": "Uindows",
+          "confidence": 0.5539,
+          "bbox": [
+            [
+              111,
+              181
+            ],
+            [
+              245,
+              181
+            ],
+            [
+              245,
+              217
+            ],
+            [
+              111,
+              217
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 111,
+            "y_min": 181,
+            "x_max": 245,
+            "y_max": 217
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 9,
+          "text": "8s",
+          "confidence": 0.4723,
+          "bbox": [
+            [
+              269,
+              181
+            ],
+            [
+              307,
+              181
+            ],
+            [
+              307,
+              217
+            ],
+            [
+              269,
+              217
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 269,
+            "y_min": 181,
+            "x_max": 307,
+            "y_max": 217
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 10,
+          "text": "an",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              326,
+              190
+            ],
+            [
+              368,
+              190
+            ],
+            [
+              368,
+              214
+            ],
+            [
+              326,
+              214
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 326,
+            "y_min": 190,
+            "x_max": 368,
+            "y_max": 214
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "source_pages": [
+        "page2.jpg"
+      ],
+      "text": "4- A ketboard 2s an output   device that dtsplay: lettens ad numbers On the computer seqeen It 8s maln used to ghoco  infocmaton to the user-",
+      "ocr_item_count": 24,
+      "average_confidence": 0.667,
+      "items": [
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 11,
+          "text": "ketboard",
+          "confidence": 0.803,
+          "bbox": [
+            [
+              164,
+              294
+            ],
+            [
+              306,
+              294
+            ],
+            [
+              306,
+              348
+            ],
+            [
+              164,
+              348
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 164,
+            "y_min": 294,
+            "x_max": 306,
+            "y_max": 348
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 12,
+          "text": "output   device",
+          "confidence": 0.7565,
+          "bbox": [
+            [
+              456,
+              294
+            ],
+            [
+              688,
+              294
+            ],
+            [
+              688,
+              344
+            ],
+            [
+              456,
+              344
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 456,
+            "y_min": 294,
+            "x_max": 688,
+            "y_max": 344
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 13,
+          "text": "that",
+          "confidence": 0.9513,
+          "bbox": [
+            [
+              705,
+              297
+            ],
+            [
+              783,
+              297
+            ],
+            [
+              783,
+              333
+            ],
+            [
+              705,
+              333
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 705,
+            "y_min": 297,
+            "x_max": 783,
+            "y_max": 333
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 14,
+          "text": "dtsplay:",
+          "confidence": 0.3186,
+          "bbox": [
+            [
+              784,
+              287
+            ],
+            [
+              925,
+              287
+            ],
+            [
+              925,
+              349
+            ],
+            [
+              784,
+              349
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 784,
+            "y_min": 287,
+            "x_max": 925,
+            "y_max": 349
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 15,
+          "text": "4-",
+          "confidence": 0.5962,
+          "bbox": [
+            [
+              70,
+              310
+            ],
+            [
+              108,
+              310
+            ],
+            [
+              108,
+              336
+            ],
+            [
+              70,
+              336
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 70,
+            "y_min": 310,
+            "x_max": 108,
+            "y_max": 336
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 16,
+          "text": "A",
+          "confidence": 0.9884,
+          "bbox": [
+            [
+              118,
+              300
+            ],
+            [
+              142,
+              300
+            ],
+            [
+              142,
+              330
+            ],
+            [
+              118,
+              330
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 118,
+            "y_min": 300,
+            "x_max": 142,
+            "y_max": 330
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 17,
+          "text": "2s",
+          "confidence": 0.228,
+          "bbox": [
+            [
+              328,
+              302
+            ],
+            [
+              360,
+              302
+            ],
+            [
+              360,
+              330
+            ],
+            [
+              328,
+              330
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 328,
+            "y_min": 302,
+            "x_max": 360,
+            "y_max": 330
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 18,
+          "text": "an",
+          "confidence": 0.9018,
+          "bbox": [
+            [
+              394,
+              301
+            ],
+            [
+              435,
+              306
+            ],
+            [
+              432,
+              331
+            ],
+            [
+              391,
+              326
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 391,
+            "y_min": 301,
+            "x_max": 435,
+            "y_max": 331
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 19,
+          "text": "lettens",
+          "confidence": 0.5807,
+          "bbox": [
+            [
+              118,
+              356
+            ],
+            [
+              226,
+              356
+            ],
+            [
+              226,
+              388
+            ],
+            [
+              118,
+              388
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 118,
+            "y_min": 356,
+            "x_max": 226,
+            "y_max": 388
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 20,
+          "text": "ad",
+          "confidence": 0.9751,
+          "bbox": [
+            [
+              244,
+              352
+            ],
+            [
+              304,
+              352
+            ],
+            [
+              304,
+              384
+            ],
+            [
+              244,
+              384
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 244,
+            "y_min": 352,
+            "x_max": 304,
+            "y_max": 384
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 21,
+          "text": "numbers",
+          "confidence": 0.7476,
+          "bbox": [
+            [
+              322,
+              356
+            ],
+            [
+              446,
+              356
+            ],
+            [
+              446,
+              386
+            ],
+            [
+              322,
+              386
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 322,
+            "y_min": 356,
+            "x_max": 446,
+            "y_max": 386
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 22,
+          "text": "the",
+          "confidence": 0.86,
+          "bbox": [
+            [
+              528,
+              352
+            ],
+            [
+              585,
+              361
+            ],
+            [
+              579,
+              395
+            ],
+            [
+              522,
+              385
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 522,
+            "y_min": 352,
+            "x_max": 585,
+            "y_max": 395
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 23,
+          "text": "seqeen",
+          "confidence": 0.3378,
+          "bbox": [
+            [
+              765,
+              357
+            ],
+            [
+              886,
+              357
+            ],
+            [
+              886,
+              387
+            ],
+            [
+              765,
+              387
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 765,
+            "y_min": 357,
+            "x_max": 886,
+            "y_max": 387
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 24,
+          "text": "On",
+          "confidence": 0.3154,
+          "bbox": [
+            [
+              474,
+              360
+            ],
+            [
+              512,
+              360
+            ],
+            [
+              512,
+              384
+            ],
+            [
+              474,
+              384
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 474,
+            "y_min": 360,
+            "x_max": 512,
+            "y_max": 384
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 25,
+          "text": "computer",
+          "confidence": 0.7575,
+          "bbox": [
+            [
+              597,
+              361
+            ],
+            [
+              745,
+              361
+            ],
+            [
+              745,
+              397
+            ],
+            [
+              597,
+              397
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 597,
+            "y_min": 361,
+            "x_max": 745,
+            "y_max": 397
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 26,
+          "text": "It",
+          "confidence": 0.5313,
+          "bbox": [
+            [
+              118,
+              412
+            ],
+            [
+              162,
+              412
+            ],
+            [
+              162,
+              444
+            ],
+            [
+              118,
+              444
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 118,
+            "y_min": 412,
+            "x_max": 162,
+            "y_max": 444
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 27,
+          "text": "8s",
+          "confidence": 0.5303,
+          "bbox": [
+            [
+              178,
+              416
+            ],
+            [
+              206,
+              416
+            ],
+            [
+              206,
+              442
+            ],
+            [
+              178,
+              442
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 178,
+            "y_min": 416,
+            "x_max": 206,
+            "y_max": 442
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 28,
+          "text": "maln",
+          "confidence": 0.9355,
+          "bbox": [
+            [
+              223,
+              412
+            ],
+            [
+              298,
+              412
+            ],
+            [
+              298,
+              442
+            ],
+            [
+              223,
+              442
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 223,
+            "y_min": 412,
+            "x_max": 298,
+            "y_max": 442
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 29,
+          "text": "used",
+          "confidence": 0.9261,
+          "bbox": [
+            [
+              356,
+              410
+            ],
+            [
+              434,
+              410
+            ],
+            [
+              434,
+              442
+            ],
+            [
+              356,
+              442
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 356,
+            "y_min": 410,
+            "x_max": 434,
+            "y_max": 442
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 30,
+          "text": "to",
+          "confidence": 0.4298,
+          "bbox": [
+            [
+              444,
+              414
+            ],
+            [
+              476,
+              414
+            ],
+            [
+              476,
+              442
+            ],
+            [
+              444,
+              442
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 444,
+            "y_min": 414,
+            "x_max": 476,
+            "y_max": 442
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 31,
+          "text": "ghoco  infocmaton",
+          "confidence": 0.5413,
+          "bbox": [
+            [
+              495,
+              411
+            ],
+            [
+              773,
+              411
+            ],
+            [
+              773,
+              451
+            ],
+            [
+              495,
+              451
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 495,
+            "y_min": 411,
+            "x_max": 773,
+            "y_max": 451
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 32,
+          "text": "to",
+          "confidence": 0.6356,
+          "bbox": [
+            [
+              794,
+              416
+            ],
+            [
+              828,
+              416
+            ],
+            [
+              828,
+              442
+            ],
+            [
+              794,
+              442
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 794,
+            "y_min": 416,
+            "x_max": 828,
+            "y_max": 442
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 33,
+          "text": "the",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              844,
+              416
+            ],
+            [
+              906,
+              416
+            ],
+            [
+              906,
+              448
+            ],
+            [
+              844,
+              448
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 844,
+            "y_min": 416,
+            "x_max": 906,
+            "y_max": 448
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 34,
+          "text": "user-",
+          "confidence": 0.3597,
+          "bbox": [
+            [
+              118,
+              476
+            ],
+            [
+              202,
+              476
+            ],
+            [
+              202,
+              502
+            ],
+            [
+              118,
+              502
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 118,
+            "y_min": 476,
+            "x_max": 202,
+            "y_max": 502
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "source_pages": [
+        "page2.jpg"
+      ],
+      "text": "5. 4 {5 Sottwaxe usedl to olen and Se € webs (tes on theinternet Fox   examile, Gooq\" le (haone i a brouSer Sometlmgf 1 used- iE +0 Search 80 Forma tn ad di (feaent websi Tes",
+      "ocr_item_count": 32,
+      "average_confidence": 0.6098,
+      "items": [
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 35,
+          "text": "5. 4",
+          "confidence": 0.7094,
+          "bbox": [
+            [
+              79,
+              589
+            ],
+            [
+              145,
+              589
+            ],
+            [
+              145,
+              627
+            ],
+            [
+              79,
+              627
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 79,
+            "y_min": 589,
+            "x_max": 145,
+            "y_max": 627
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 36,
+          "text": "{5",
+          "confidence": 0.4331,
+          "bbox": [
+            [
+              312,
+              586
+            ],
+            [
+              348,
+              586
+            ],
+            [
+              348,
+              616
+            ],
+            [
+              312,
+              616
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 312,
+            "y_min": 586,
+            "x_max": 348,
+            "y_max": 616
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 37,
+          "text": "Sottwaxe",
+          "confidence": 0.3481,
+          "bbox": [
+            [
+              425,
+              582
+            ],
+            [
+              564,
+              582
+            ],
+            [
+              564,
+              614
+            ],
+            [
+              425,
+              614
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 425,
+            "y_min": 582,
+            "x_max": 564,
+            "y_max": 614
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 38,
+          "text": "usedl",
+          "confidence": 0.6577,
+          "bbox": [
+            [
+              589,
+              589
+            ],
+            [
+              655,
+              589
+            ],
+            [
+              655,
+              629
+            ],
+            [
+              589,
+              629
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 589,
+            "y_min": 589,
+            "x_max": 655,
+            "y_max": 629
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 39,
+          "text": "to",
+          "confidence": 0.7212,
+          "bbox": [
+            [
+              694,
+              594
+            ],
+            [
+              730,
+              594
+            ],
+            [
+              730,
+              618
+            ],
+            [
+              694,
+              618
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 694,
+            "y_min": 594,
+            "x_max": 730,
+            "y_max": 618
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 40,
+          "text": "olen",
+          "confidence": 0.2604,
+          "bbox": [
+            [
+              741,
+              581
+            ],
+            [
+              807,
+              581
+            ],
+            [
+              807,
+              621
+            ],
+            [
+              741,
+              621
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 741,
+            "y_min": 581,
+            "x_max": 807,
+            "y_max": 621
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 41,
+          "text": "and",
+          "confidence": 0.8677,
+          "bbox": [
+            [
+              830,
+              590
+            ],
+            [
+              886,
+              590
+            ],
+            [
+              886,
+              620
+            ],
+            [
+              830,
+              620
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 830,
+            "y_min": 590,
+            "x_max": 886,
+            "y_max": 620
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 42,
+          "text": "theinternet",
+          "confidence": 0.9322,
+          "bbox": [
+            [
+              468,
+              638
+            ],
+            [
+              657,
+              638
+            ],
+            [
+              657,
+              674
+            ],
+            [
+              468,
+              674
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 468,
+            "y_min": 638,
+            "x_max": 657,
+            "y_max": 674
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 43,
+          "text": "Se €",
+          "confidence": 0.448,
+          "bbox": [
+            [
+              123,
+              659
+            ],
+            [
+              183,
+              659
+            ],
+            [
+              183,
+              679
+            ],
+            [
+              123,
+              679
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 123,
+            "y_min": 659,
+            "x_max": 183,
+            "y_max": 679
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 44,
+          "text": "webs (tes",
+          "confidence": 0.3355,
+          "bbox": [
+            [
+              225,
+              641
+            ],
+            [
+              369,
+              641
+            ],
+            [
+              369,
+              677
+            ],
+            [
+              225,
+              677
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 225,
+            "y_min": 641,
+            "x_max": 369,
+            "y_max": 677
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 45,
+          "text": "on",
+          "confidence": 0.7841,
+          "bbox": [
+            [
+              406,
+              648
+            ],
+            [
+              444,
+              648
+            ],
+            [
+              444,
+              672
+            ],
+            [
+              406,
+              672
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 406,
+            "y_min": 648,
+            "x_max": 444,
+            "y_max": 672
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 46,
+          "text": "Fox   examile,",
+          "confidence": 0.6531,
+          "bbox": [
+            [
+              692,
+              640
+            ],
+            [
+              905,
+              640
+            ],
+            [
+              905,
+              694
+            ],
+            [
+              692,
+              694
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 692,
+            "y_min": 640,
+            "x_max": 905,
+            "y_max": 694
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 47,
+          "text": "brouSer",
+          "confidence": 0.6038,
+          "bbox": [
+            [
+              469,
+              695
+            ],
+            [
+              587,
+              695
+            ],
+            [
+              587,
+              733
+            ],
+            [
+              469,
+              733
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 469,
+            "y_min": 695,
+            "x_max": 587,
+            "y_max": 733
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 48,
+          "text": "Sometlmgf",
+          "confidence": 0.2659,
+          "bbox": [
+            [
+              612,
+              693
+            ],
+            [
+              757,
+              693
+            ],
+            [
+              757,
+              741
+            ],
+            [
+              612,
+              741
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 612,
+            "y_min": 693,
+            "x_max": 757,
+            "y_max": 741
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 49,
+          "text": "Gooq\"",
+          "confidence": 0.7603,
+          "bbox": [
+            [
+              124,
+              708
+            ],
+            [
+              195,
+              723
+            ],
+            [
+              183,
+              767
+            ],
+            [
+              113,
+              751
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 113,
+            "y_min": 708,
+            "x_max": 195,
+            "y_max": 767
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 50,
+          "text": "le",
+          "confidence": 0.9992,
+          "bbox": [
+            [
+              180,
+              712
+            ],
+            [
+              212,
+              712
+            ],
+            [
+              212,
+              742
+            ],
+            [
+              180,
+              742
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 180,
+            "y_min": 712,
+            "x_max": 212,
+            "y_max": 742
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 51,
+          "text": "(haone",
+          "confidence": 0.2398,
+          "bbox": [
+            [
+              233,
+              707
+            ],
+            [
+              343,
+              707
+            ],
+            [
+              343,
+              743
+            ],
+            [
+              233,
+              743
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 233,
+            "y_min": 707,
+            "x_max": 343,
+            "y_max": 743
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 52,
+          "text": "i",
+          "confidence": 0.4162,
+          "bbox": [
+            [
+              374,
+              706
+            ],
+            [
+              404,
+              706
+            ],
+            [
+              404,
+              734
+            ],
+            [
+              374,
+              734
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 374,
+            "y_min": 706,
+            "x_max": 404,
+            "y_max": 734
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 53,
+          "text": "a",
+          "confidence": 0.4452,
+          "bbox": [
+            [
+              419,
+              707
+            ],
+            [
+              441,
+              707
+            ],
+            [
+              441,
+              727
+            ],
+            [
+              419,
+              727
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 419,
+            "y_min": 707,
+            "x_max": 441,
+            "y_max": 727
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 54,
+          "text": "1",
+          "confidence": 0.9923,
+          "bbox": [
+            [
+              772,
+              704
+            ],
+            [
+              802,
+              704
+            ],
+            [
+              802,
+              740
+            ],
+            [
+              772,
+              740
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 772,
+            "y_min": 704,
+            "x_max": 802,
+            "y_max": 740
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 55,
+          "text": "used-",
+          "confidence": 0.2616,
+          "bbox": [
+            [
+              809,
+              708
+            ],
+            [
+              876,
+              701
+            ],
+            [
+              878,
+              737
+            ],
+            [
+              811,
+              744
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 809,
+            "y_min": 701,
+            "x_max": 878,
+            "y_max": 744
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 56,
+          "text": "iE",
+          "confidence": 0.4367,
+          "bbox": [
+            [
+              872,
+              702
+            ],
+            [
+              918,
+              702
+            ],
+            [
+              918,
+              734
+            ],
+            [
+              872,
+              734
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 872,
+            "y_min": 702,
+            "x_max": 918,
+            "y_max": 734
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 57,
+          "text": "Forma",
+          "confidence": 0.3371,
+          "bbox": [
+            [
+              396,
+              757
+            ],
+            [
+              475,
+              779
+            ],
+            [
+              464,
+              811
+            ],
+            [
+              386,
+              789
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 386,
+            "y_min": 757,
+            "x_max": 475,
+            "y_max": 811
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 58,
+          "text": "Search",
+          "confidence": 0.805,
+          "bbox": [
+            [
+              167,
+              777
+            ],
+            [
+              278,
+              777
+            ],
+            [
+              278,
+              817
+            ],
+            [
+              167,
+              817
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 167,
+            "y_min": 777,
+            "x_max": 278,
+            "y_max": 817
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 59,
+          "text": "80",
+          "confidence": 0.8614,
+          "bbox": [
+            [
+              362,
+              774
+            ],
+            [
+              400,
+              774
+            ],
+            [
+              400,
+              806
+            ],
+            [
+              362,
+              806
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 362,
+            "y_min": 774,
+            "x_max": 400,
+            "y_max": 806
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 60,
+          "text": "tn",
+          "confidence": 0.9284,
+          "bbox": [
+            [
+              468,
+              770
+            ],
+            [
+              524,
+              770
+            ],
+            [
+              524,
+              798
+            ],
+            [
+              468,
+              798
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 468,
+            "y_min": 770,
+            "x_max": 524,
+            "y_max": 798
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 61,
+          "text": "ad",
+          "confidence": 0.813,
+          "bbox": [
+            [
+              570,
+              776
+            ],
+            [
+              626,
+              776
+            ],
+            [
+              626,
+              808
+            ],
+            [
+              570,
+              808
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 570,
+            "y_min": 776,
+            "x_max": 626,
+            "y_max": 808
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 62,
+          "text": "di",
+          "confidence": 0.2155,
+          "bbox": [
+            [
+              781,
+              767
+            ],
+            [
+              819,
+              767
+            ],
+            [
+              819,
+              803
+            ],
+            [
+              781,
+              803
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 781,
+            "y_min": 767,
+            "x_max": 819,
+            "y_max": 803
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 63,
+          "text": "(feaent",
+          "confidence": 0.6262,
+          "bbox": [
+            [
+              814,
+              762
+            ],
+            [
+              917,
+              782
+            ],
+            [
+              909,
+              818
+            ],
+            [
+              806,
+              799
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 806,
+            "y_min": 762,
+            "x_max": 917,
+            "y_max": 818
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 64,
+          "text": "+0",
+          "confidence": 0.8673,
+          "bbox": [
+            [
+              116,
+              784
+            ],
+            [
+              150,
+              784
+            ],
+            [
+              150,
+              810
+            ],
+            [
+              116,
+              810
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 116,
+            "y_min": 784,
+            "x_max": 150,
+            "y_max": 810
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 65,
+          "text": "websi",
+          "confidence": 0.4941,
+          "bbox": [
+            [
+              110,
+              838
+            ],
+            [
+              190,
+              838
+            ],
+            [
+              190,
+              866
+            ],
+            [
+              110,
+              866
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 110,
+            "y_min": 838,
+            "x_max": 190,
+            "y_max": 866
+          }
+        },
+        {
+          "page_number": 2,
+          "source_file": "page2.jpg",
+          "order": 66,
+          "text": "Tes",
+          "confidence": 0.9937,
+          "bbox": [
+            [
+              186,
+              826
+            ],
+            [
+              239,
+              833
+            ],
+            [
+              234,
+              870
+            ],
+            [
+              180,
+              863
+            ]
+          ],
+          "bounding_box": {
+            "x_min": 180,
+            "y_min": 826,
+            "x_max": 239,
+            "y_max": 870
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cross_page_merging": "Q3 merged across page1.jpg and page2.jpg",
+    "segmentation_method": "gap_clustering_and_margin_marker_detection",
+    "total_ocr_items": 135
+  }
+}
